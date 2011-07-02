@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=AIRi
+GenericName=AIRi Management Software
+Exec=/opt/AIRi/bin/AIRi
+Icon=AIRi
+Terminal=true
+Categories=Network;

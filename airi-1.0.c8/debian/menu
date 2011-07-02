@@ -1,0 +1,5 @@
+?package(airi):needs="text" section="Applications/Network/Communication" \
+  title="AIRi" command="/opt/AIRi/bin/AIRi" \
+  icon="/usr/share/pixmaps/AIRi-32x32.xpm" \
+  icon32x32="/usr/share/pixmaps/AIRi-32x32.xpm" \
+  icon16x16="/usr/share/pixmaps/AIRi-16x16.xpm"

@@ -1,0 +1,6 @@
+debian/icons/AIRi.xpm usr/share/pixmaps
+debian/icons/AIRi-72x72.xpm usr/share/pixmaps
+debian/icons/AIRi-32x32.xpm usr/share/pixmaps
+debian/icons/AIRi-16x16.xpm usr/share/pixmaps
+debian/airi.desktop usr/share/applications
+
